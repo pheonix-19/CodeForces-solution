@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"d:\\doc\\vs\\codeforces\\a.musicalpuzzle.cpp","tests":[{"id":1703336606565,"input":"5\n4\nabab\n7\nabacaba\n6\naaaaaa\n7\nabcdefg\n5\nbabdd","output":"2\n4\n1\n6\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\doc\\vs\\codeforces\\a.musicalpuzzle.cpp","group":"local","local":true}

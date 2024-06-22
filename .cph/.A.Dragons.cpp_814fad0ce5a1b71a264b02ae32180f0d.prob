@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\doc\\vs\\codeforces\\A.Dragons.cpp","tests":[{"id":1705763414690,"input":"2 2\n1 99\n100 0","output":"YES"},{"id":1705764993488,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\doc\\vs\\codeforces\\A.Dragons.cpp","group":"local","local":true}
